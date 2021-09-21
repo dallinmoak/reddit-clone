@@ -20,7 +20,7 @@ module.exports = {
   },
   plugins: [
     new HtmlWebpackPlugin({
-      title: 'React Webpack template',
+      title: 'Reddit clone',
       template: path.resolve(__dirname, '../static', 'index.html'),
       favicon: path.resolve(__dirname, '../static', 'favicon.ico')
     }),
