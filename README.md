@@ -1,6 +1,4 @@
-# webpack-basics
-
-a template for making a bare-bones webpack react app. 
+# Reddit Clone
 
 `npm i` to install node dependencies
 
